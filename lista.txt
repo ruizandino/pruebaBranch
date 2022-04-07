@@ -1,3 +1,4 @@
 huevos 
 harina 
-aceite vinagre
+aceite
+ vinagre
